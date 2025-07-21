@@ -1,0 +1,7 @@
+{
+  "name": "imgbed",
+  "compatibility_date": "2025-07-021",
+  "assets": {
+    "directory": "./dist/client/"
+  }
+}
